@@ -134,3 +134,4 @@ print(start_training(pers))
 
 
 
+
